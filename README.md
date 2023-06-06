@@ -1,13 +1,15 @@
 
-# Telegram-Seen
+# MdzViews
 
-🐍 Script for send telegram seen on public channels
+●Copyright - @mdzup
 
-🔥 Using Threading method for proxies
+🐍 Script para enviar views em canais públicos
+
+🔥 Usando o método Threading para proxies
 
 ⚡️ Using mix protocols (http + socks4 + socks5)
 
-### Usage:
+### Modo De Uso:
 
 Cloning to system
 ```bash
@@ -29,4 +31,4 @@ Exapmle:
 python3 seen.py https://t.me/premium/138 http 10
 ```
 
-**Good Luck!**
+**Bom Uso!**
